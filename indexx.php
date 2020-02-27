@@ -4,5 +4,6 @@ aaaaaaaaaaaaaaa
 echo "Nurlan";
 echo "salam";
 echo "Azerbaycan";
+echo "America";
 
 ?>
